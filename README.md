@@ -2,9 +2,10 @@
 
 Picks&Bans, Stats e Pistols em uma única interface flutuante para facilitar a extração e análise de dados no VLR.gg. Desenvolvido para atuar como uma extensão Tampermonkey, este script extrai automaticamente estatísticas de jogos e mapas, poupando tempo em pesquisas manuais.
 
+Leia isto em: [English](README_en.md)
+
 ## 🚀 Funcionalidades
 
-Read in english: [English](README_en.md)
 O script adiciona um botão flutuante 📊 no canto inferior direito do site do vlr.gg. Ao clicar nele, você tem acesso a três módulos principais:
 
 ### 1. Picks&Bans (Scraper Comparativo)
