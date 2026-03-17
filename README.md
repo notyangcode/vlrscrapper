@@ -39,6 +39,9 @@ Módulo específico focado nas estatísticas de vitórias e derrotas em *Pistol 
 3. Copie todo o código contido no arquivo `script.user.js` deste repositório e cole lá.
 4. Salve (`Ctrl+S` ou aba Arquivo > Salvar).
 5. Acesse o site do [VLR.gg](https://www.vlr.gg) e verifique se o botão de ferramenta 📊 aparece no canto de sua tela.
+42: 
+43: > [!IMPORTANT]
+44: > **Usuários do Opera:** Para que o script funcione, você deve ativar o **Modo do Desenvolvedor** (Developer Mode) nas configurações de extensões do Opera e habilitar a opção **"Permitir Scripts de Usuário"** (Allow User Scripts). Além disso, o Opera pode exibir um aviso informando que a extensão executará código não revisado; você deve confirmar que confia no script para que ele seja ativado.
 
 ## 🧑‍💻 Autores
 
