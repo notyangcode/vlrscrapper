@@ -39,9 +39,9 @@ A specific module focused on win and loss statistics in *Pistol Rounds*.
 3. Copy all the code contained in the `script.user.js` file from this repository and paste it there.
 4. Save (`Ctrl+S` or File > Save tab).
 5. Go to the [VLR.gg](https://www.vlr.gg) website and check if the 📊 tool button appears in the corner of your screen.
-42: 
-43: > [!IMPORTANT]
-44: > **Opera Users:** For the script to work, you must enable **Developer Mode** in Opera's extension settings and turn on the **"Allow User Scripts"** option. Additionally, Opera may display a warning stating that the extension will run unreviewed code; you must confirm that you trust the script for it to be enabled.
+
+> [!IMPORTANT]
+> **Opera Users:** For the script to work, you must enable **Developer Mode** in Opera's extension settings and turn on the **"Allow User Scripts"** option. Additionally, Opera may display a warning stating that the extension will run unreviewed code; you must confirm that you trust the script for it to be enabled.
 
 ## 🧑‍💻 Authors
 
